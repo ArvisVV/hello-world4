@@ -5,3 +5,4 @@ This is an example repository
 This repository is built step by step.
 Sveiks!
 Atkal sveiks
+Sveiks from update-readme / local branch
